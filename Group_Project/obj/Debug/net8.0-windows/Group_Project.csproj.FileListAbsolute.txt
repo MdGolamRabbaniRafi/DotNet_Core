@@ -1,0 +1,33 @@
+F:\code\.Net_core\Group_Project\Group_Project\bin\Debug\net8.0-windows\Group_Project.exe
+F:\code\.Net_core\Group_Project\Group_Project\bin\Debug\net8.0-windows\Group_Project.deps.json
+F:\code\.Net_core\Group_Project\Group_Project\bin\Debug\net8.0-windows\Group_Project.runtimeconfig.json
+F:\code\.Net_core\Group_Project\Group_Project\bin\Debug\net8.0-windows\Group_Project.dll
+F:\code\.Net_core\Group_Project\Group_Project\bin\Debug\net8.0-windows\Group_Project.pdb
+F:\code\.Net_core\Group_Project\Group_Project\obj\Debug\net8.0-windows\Group_Project.Form1.resources
+F:\code\.Net_core\Group_Project\Group_Project\obj\Debug\net8.0-windows\Group_Project.Form4.resources
+F:\code\.Net_core\Group_Project\Group_Project\obj\Debug\net8.0-windows\Group_Project.csproj.GenerateResource.cache
+F:\code\.Net_core\Group_Project\Group_Project\obj\Debug\net8.0-windows\Group_Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\.Net_core\Group_Project\Group_Project\obj\Debug\net8.0-windows\Group_Project.AssemblyInfoInputs.cache
+F:\code\.Net_core\Group_Project\Group_Project\obj\Debug\net8.0-windows\Group_Project.AssemblyInfo.cs
+F:\code\.Net_core\Group_Project\Group_Project\obj\Debug\net8.0-windows\Group_Project.csproj.CoreCompileInputs.cache
+F:\code\.Net_core\Group_Project\Group_Project\obj\Debug\net8.0-windows\Group_Project.dll
+F:\code\.Net_core\Group_Project\Group_Project\obj\Debug\net8.0-windows\refint\Group_Project.dll
+F:\code\.Net_core\Group_Project\Group_Project\obj\Debug\net8.0-windows\Group_Project.pdb
+F:\code\.Net_core\Group_Project\Group_Project\obj\Debug\net8.0-windows\Group_Project.genruntimeconfig.cache
+F:\code\.Net_core\Group_Project\Group_Project\obj\Debug\net8.0-windows\ref\Group_Project.dll
+F:\code\.Net_core\Scientific Calculator\Group_Project\bin\Debug\net8.0-windows\Group_Project.exe
+F:\code\.Net_core\Scientific Calculator\Group_Project\bin\Debug\net8.0-windows\Group_Project.deps.json
+F:\code\.Net_core\Scientific Calculator\Group_Project\bin\Debug\net8.0-windows\Group_Project.runtimeconfig.json
+F:\code\.Net_core\Scientific Calculator\Group_Project\bin\Debug\net8.0-windows\Group_Project.dll
+F:\code\.Net_core\Scientific Calculator\Group_Project\bin\Debug\net8.0-windows\Group_Project.pdb
+F:\code\.Net_core\Scientific Calculator\Group_Project\obj\Debug\net8.0-windows\Group_Project.Form1.resources
+F:\code\.Net_core\Scientific Calculator\Group_Project\obj\Debug\net8.0-windows\Group_Project.csproj.GenerateResource.cache
+F:\code\.Net_core\Scientific Calculator\Group_Project\obj\Debug\net8.0-windows\Group_Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\.Net_core\Scientific Calculator\Group_Project\obj\Debug\net8.0-windows\Group_Project.AssemblyInfoInputs.cache
+F:\code\.Net_core\Scientific Calculator\Group_Project\obj\Debug\net8.0-windows\Group_Project.AssemblyInfo.cs
+F:\code\.Net_core\Scientific Calculator\Group_Project\obj\Debug\net8.0-windows\Group_Project.csproj.CoreCompileInputs.cache
+F:\code\.Net_core\Scientific Calculator\Group_Project\obj\Debug\net8.0-windows\Group_Project.dll
+F:\code\.Net_core\Scientific Calculator\Group_Project\obj\Debug\net8.0-windows\refint\Group_Project.dll
+F:\code\.Net_core\Scientific Calculator\Group_Project\obj\Debug\net8.0-windows\Group_Project.pdb
+F:\code\.Net_core\Scientific Calculator\Group_Project\obj\Debug\net8.0-windows\Group_Project.genruntimeconfig.cache
+F:\code\.Net_core\Scientific Calculator\Group_Project\obj\Debug\net8.0-windows\ref\Group_Project.dll
