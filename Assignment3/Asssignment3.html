@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard</title>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+    }
+
+    .sidebar {
+        width: 250px;
+        background-color: #333;
+        color: #fff;
+        height: 100vh;
+        position: fixed;
+        left: 0;
+        top: 0;
+    }
+
+    .sidebar ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .sidebar li {
+        padding: 15px;
+        border-bottom: 1px solid #555;
+        cursor: pointer; /* Add cursor pointer for better UX */
+    }
+
+    .sidebar li:last-child {
+        border-bottom: none;
+    }
+
+    .topbar {
+        background-color: #444;
+        color: #fff;
+        padding: 15px;
+        height: 60px;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 250px; 
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+    }
+
+    .content {
+        margin-top: 60px; 
+        margin-left: 250px; 
+        padding: 20px;
+    }
+
+    @media screen and (max-width: 768px) {
+        .sidebar {
+            width: 100%;
+            height: auto;
+            position: relative;
+            left: auto;
+            top: auto;
+        }
+
+        .topbar {
+            width: 100%;
+            position: relative;
+            left: auto;
+        }
+
+        .content {
+            margin-top: 60px;
+            margin-left: 0;
+        }
+    }
+</style>
+</head>
+<body>
+
+<div class="sidebar">
+    <ul>
+        <li onclick="changeContent('Dashboard')">Dashboard</li>
+        <li onclick="changeContent('Analytics')">Analytics</li>
+        <li onclick="changeContent('Reports')">Reports</li>
+        <li onclick="changeContent('Settings')">Settings</li>
+    </ul>
+</div>
+
+<div class="topbar">
+    <h2>Dashboard</h2>
+</div>
+
+<div class="content">
+    <h3 id="dashboardContent">Welcome to your Dashboard</h3>
+</div>
+
+<script>
+    function changeContent(content) {
+        document.getElementById('dashboardContent').innerText = 'Welcome to ' + content;
+    }
+</script>
+
+</body>
+</html>
